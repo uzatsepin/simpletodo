@@ -3,5 +3,5 @@
 In this project i'm using:
 
 1. ReactJS
-2. TailWinCSS
+2. TailWindCSS
 3. React-Icons
